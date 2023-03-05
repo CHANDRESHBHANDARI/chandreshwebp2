@@ -20,6 +20,12 @@ JOBS=[
     'title':'Frontend Engg.',
     'location':'USA',
     'salary':'$ 13000'
+  },
+  {
+    'id':4,
+    'title':'Manager',
+    'location':'Didihat',
+    'salary':'Rs. 1000000'
   }
 ]
 
